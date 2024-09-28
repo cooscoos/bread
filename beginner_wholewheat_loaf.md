@@ -20,7 +20,7 @@ Ingredients for 50/50 whole-wheat/white loaf taken from [abreaduaction](https://
 
 \* Weigh out separately before adding
 
-## Generalised whole-wheat content
+### Generalised whole-wheat content
 
 > :warning: **Not yet tested**: This is experimental.
 
