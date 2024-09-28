@@ -20,9 +20,7 @@ Ingredients for 50/50 whole-wheat/white loaf taken from [abreaduaction](https://
 
 ## Ingredients (whole-wheat)
 
-<div style="border:1px solid red; padding:10px; background-color: #ffe6e6; margin:10px;">
-⚠️ Experimental
-</div>
+> :warning: **Not yet tested**: This is experimental.
 
 Ingredients for 50/50 have a higher water content required compared to white loaf. The [dough calculator](#dough_calc.ipynb) assumes this water-content scales linearly and can be used to create recipes for any percentage of whole-wheat flour.
 
