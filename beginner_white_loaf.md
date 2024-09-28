@@ -30,7 +30,7 @@ Keep dough covered for all resting and proofing steps:
 | 00:00            | Rest              | Rest 5 minutes                                                | Dough temp: 22.7 &ndash; 25.6 °C                                               |
 | 00:05            | Fold              | Fold 1                                                        | Four folds and flip                                                            |
 | 00:10            |                   | Fold 2                                                        |                                                                                |
-| 00:15            | Bulk ferment      | Fold 3, into oiled bowl for 1 hr                              | Dough temp: 21.1 &ndash; 26.7 °C (ideal 23.9°C). Size increase 50-75\%                     |
+| 00:15            | Bulk ferment      | Fold 3, into oiled bowl for 1 hr                              | Dough temp: 21.1 &ndash; 26.7 °C (ideal 23.9°C). Done when: size increase 50-75\%, quick springback, bubbles on surface                      |
 | 01:15            | Pre-shape         | Degas quite a lot, fold, flip, tighten, rest 30 mins          | Floured surface for degas, no flour for tighten                                |
 | 01:50            | Final shape       | Flip out boule, thorough degas, triangle, roll, sides in | Floured surface                                                                |
 | 02:00            | Final proof       | Into oiled pan for 1.5 &ndash; 2 hrs                                | Done when: 2 &ndash; 3 x size increase, airy and strong, slow spring back      |
