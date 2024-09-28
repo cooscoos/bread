@@ -1,3 +1,3 @@
 # Bread
 
-Notes on how to make bread
+Notes on how to make bread.
