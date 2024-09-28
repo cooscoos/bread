@@ -44,8 +44,8 @@ Here is the output for 100% whole-wheat.
 
 As per [white loaf](./beginner_white_loaf.md) with a few tweaks because whole-wheat doughs:
 
-- ferment faster
-- are less elastic
+- ferment faster, and;
+- are less elastic.
 
 So:
 
