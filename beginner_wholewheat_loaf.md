@@ -1,7 +1,9 @@
 # Beginner's whole-wheat loaf
 
 
-## Ingredients (50/50 whole-wheat/white)
+## Ingredients
+
+### 50/50 whole-wheat/white
 
 Ingredients for 50/50 whole-wheat/white loaf taken from [abreaduaction](https://www.abreaducation.com/content/baking-bread-with-whole-wheat-flour).
 
@@ -18,7 +20,7 @@ Ingredients for 50/50 whole-wheat/white loaf taken from [abreaduaction](https://
 
 \* Weigh out separately before adding
 
-## Ingredients (whole-wheat)
+## Generalised whole-wheat content
 
 > :warning: **Not yet tested**: This is experimental.
 
