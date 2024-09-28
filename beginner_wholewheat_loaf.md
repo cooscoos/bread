@@ -38,6 +38,8 @@ Here is the output for 100% whole-wheat.
 | 6*        | Salt           | 2             | 9.9             | 6.6                  |
 |           | Total          | 177           | 900               | 600                   |
 
+\* Weigh out separately before adding
+
 ## Steps
 
 As per [white loaf](./beginner_white_loaf.md) with a few tweaks because whole-wheat doughs:
