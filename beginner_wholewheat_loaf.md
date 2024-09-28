@@ -16,7 +16,7 @@ Ingredients for 50/50 whole-wheat/white loaf taken from [abreaduaction](https://
 | 5         | White flour    | 50           | 251              | 168                |
 | 5         | Whole-wheat flour| 50          | 251               | 168                   |
 | 6*        | Salt           | 2             | 10.05             | 6.68                  |
-|           | Total          | 177           | 900               | 600                   |
+|           | Total          | 179           | 900               | 600                   |
 
 \* Weigh out separately before adding
 
@@ -36,7 +36,7 @@ Here is the output for 100% whole-wheat.
 | 4         | Honey          | 4             | 20                | 13                    |
 | 5         | Whole-wheat flour| 100          | 497               | 332                   |
 | 6*        | Salt           | 2             | 9.9             | 6.6                  |
-|           | Total          | 177           | 900               | 600                   |
+|           | Total          | 181           | 900               | 600                   |
 
 \* Weigh out separately before adding
 
