@@ -36,6 +36,6 @@ Keep dough covered for all resting and proofing steps:
 | 02:00            | Final proof       | Into oiled pan for 1.5 &ndash; 2 hrs                                | Done when: 2 &ndash; 3 x size increase, airy and strong, slow spring back      |
 | 03:00            | Oven on           | 190 °C                                                        |                                                                                |
 | 03:30            | Bake              | 40 mins                                                       | Bake for 20 mins then check, adjust temp to 180 °C for final 20 mins if needed |
-| 04:10            | Check temperature | Internal temp ideally >99°C, or at least  >88 °C or           |                                                                                |
-| 04:10            | Cool              | Out of pan on wire rack                                       | At least 20 mins                                                               |
+| 04:10            | Check temperature | Internal temp ideally >99°C, or at least  >88 °C            |                                                                                |
+| 04:10            | Cool              | Out of pan on wire rack                                       | Cool at least 20 mins                                                               |
 | 04:30            | Done              |                                                               |                                                                                |
