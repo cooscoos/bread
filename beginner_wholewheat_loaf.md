@@ -3,6 +3,25 @@
 
 ## Ingredients
 
+### 100% whole-wheat
+
+Ingredients for 50/50 have a higher water content compared to white loaf. The [dough calculator](./dough_calc.ipynb) assumes this water-content scales linearly and can be used to create recipes for any percentage of whole-wheat flour.
+
+Here is the output for 100% whole-wheat.
+
+| **Order** | **Ingredient** | **Baker's %** | **23 x 13 cm pan (g)** | **21 x 12 cm pan (g)** |
+|-----------|----------------|---------------|-------------------|-----------------------|
+| 1         | Water (25 °C)          | 67            | 333               | 222                   |
+| 2*        | Yeast          | 2             | 9.9             | 6.6               |
+| 3         | Oil            | 6             | 30                | 20                   |
+| 4         | Honey          | 4             | 20                | 13                    |
+| 5         | Whole-wheat flour| 100          | 497               | 332                   |
+| 6*        | Salt           | 2             | 9.9             | 6.6                  |
+|           | Total          | 181           | 900               | 600                   |
+
+\* Weigh out separately before adding
+
+
 ### 50/50 whole-wheat/white
 
 Ingredients for 50/50 whole-wheat/white loaf taken from [abreaduaction](https://www.abreaducation.com/content/baking-bread-with-whole-wheat-flour).
@@ -20,25 +39,6 @@ Ingredients for 50/50 whole-wheat/white loaf taken from [abreaduaction](https://
 
 \* Weigh out separately before adding
 
-### Generalised whole-wheat content
-
-> :warning: **Not yet tested**: This is experimental.
-
-Ingredients for 50/50 have a higher water content compared to white loaf. The [dough calculator](./dough_calc.ipynb) assumes this water-content scales linearly and can be used to create recipes for any percentage of whole-wheat flour.
-
-Here is the output for 100% whole-wheat.
-
-| **Order** | **Ingredient** | **Baker's %** | **23 x 13 cm pan (g)** | **21 x 12 cm pan (g)** |
-|-----------|----------------|---------------|-------------------|-----------------------|
-| 1         | Water (25 °C)          | 67            | 333               | 222                   |
-| 2*        | Yeast          | 2             | 9.9             | 6.6               |
-| 3         | Oil            | 6             | 30                | 20                   |
-| 4         | Honey          | 4             | 20                | 13                    |
-| 5         | Whole-wheat flour| 100          | 497               | 332                   |
-| 6*        | Salt           | 2             | 9.9             | 6.6                  |
-|           | Total          | 181           | 900               | 600                   |
-
-\* Weigh out separately before adding
 
 ## Steps
 
