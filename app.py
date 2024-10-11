@@ -44,4 +44,5 @@ def replace_links(raw_markdown: str) -> str:
 
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    # Run at localhost:5000
+    app.run(host='0.0.0.0', debug=False)  # Set debug=True for development
