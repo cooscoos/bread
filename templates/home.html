@@ -1,0 +1,9 @@
+<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
+<div class="home">
+    <h1>Bread Recipes</h1>
+    <ul class="recipe-list">
+        {% for page in pages %}
+        <li><a href="{{ url_for('page', name=page) }}">{{ page }}</a></li>
+        {% endfor %}
+    </ul>
+</div>

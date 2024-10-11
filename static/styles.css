@@ -1,0 +1,97 @@
+/* Body styles */
+body {
+    background-color: #1b1f23; /* Darker background */
+    color: #f6f8fa; /* Light text */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 40px;
+}
+
+/* Heading styles */
+h1 {
+    background-color: #02469b; /* Darker blue header */
+    color: #fff;
+    padding: 20px;
+}
+
+h2, h3 {
+    background-color: #1b1f23; /* Darker background */
+    border-bottom: 2px solid #24292e;
+    color: #f6f8fa; /* Light text */
+    margin-bottom: 20px;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+/* Link styles */
+a {
+    color: #66afe9; /* Brighter blue */
+    text-decoration: none;
+}
+
+a:hover {
+    color: #66afe9; /* Brighter blue on hover */
+    text-decoration: underline;
+}
+
+/* List styles */
+li { margin-bottom: 10px; }
+
+ul, ol {
+    list-style-type: disc;
+    margin-left: 20px;
+    padding-left: 20px;
+}
+
+/* Paragraph styles */
+p {
+    padding: 20px;
+    padding-left: 0;
+}
+/* Table styles */
+table {
+    border: 1px solid #dfe2e5;
+    border-collapse: collapse;
+    border-spacing: 0;
+    margin-bottom: 16px;
+    width: 100%;
+}
+th, td {
+    border: 1px solid #dfe2e5;
+    padding: 6px 13px;
+}
+th {
+    background-color: #323843; /* Darker header */
+    color: #f6f8fa; /* Light text */
+    padding-bottom: 6px;
+    padding-top: 6px;
+    text-align: left;
+}
+tr:nth-child(even) { background-color: #323843; } /* Darker row */
+
+/* Home page style */
+.home {
+    text-align: center;
+    padding: 20px;
+}
+
+.recipe-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.recipe-list li {
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #f6f8fa;
+    border-radius: 5px;
+}
+
+.recipe-list li a {
+    text-decoration: none;
+    color: #66afe9;
+}
+
+.recipe-list li a:hover {
+    color: #02469b;
+}
