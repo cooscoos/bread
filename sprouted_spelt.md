@@ -4,10 +4,10 @@
 
 ## Sprouting spelt
 
-50 g of dry spelt will yield X g of sprouted grains. The water weight after patting dry is about Y g, or Z % of the dry spelt.
+50 g of dry spelt will yield about 78 g of sprouted grains.
 
 1. Soak 50 g spelt for 12 hours
-1. Drain, rinse a few times, then leave in strainer covered for 8-12 hours
+1. Drain, rinse, then leave in strainer covered for 8-12 hours
 1. Continue to rinse and stir every 8-12 hours until small white sprout emerges (may take 36 hours from first soak)
 
 At this point either:
@@ -18,7 +18,7 @@ At this point either:
 
 ## First attempt (whole spelt)
 
-Abreaducation recipes suggest using 13 &ndash; 25 bakers % of sprouted spelt in a wholegraint recipe.
+Abreaducation recipes suggest using 13 &ndash; 25 bakers % of sprouted spelt in a wholegrain recipe.
 
 They do not adjust the % of water in the recipe. If you wanted to you could measure the sprouted graints and subtract the dry weight to find the grams of water being added and subract this from the free water? See how much it is.
 
