@@ -12,6 +12,7 @@ pages: Dict[str, str] = {
     "Beginner White Loaf": "beginner_white_loaf.md",
     "Sprouted Spelt Loaf": "sprouted_spelt.md",
     "Biga": "biga.md",
+    "Cold fermentation": "cold_fermentation.md",
 }
 
 
