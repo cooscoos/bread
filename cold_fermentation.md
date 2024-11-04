@@ -11,3 +11,11 @@ In cold fermentation:
 Try 24 hours first and see how it goes.
 
 The final proofing time may double (or at least increase) as it takes time to warm up after being out of the fridge.
+
+Try 1:
+
+- Used 10 deg C water
+- 1% yeast
+- 24 hour bulk fermenation
+
+The bulk fermenation was long enough but even with double proofing time, final proofing was lackluster - it was possibly still underproofed. Next time, let the bread warm up for a couple of hours on the counter before shaping?
