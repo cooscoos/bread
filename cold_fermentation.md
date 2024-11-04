@@ -18,4 +18,7 @@ Try 1:
 - 1% yeast
 - 24 hour bulk fermenation
 
-The bulk fermenation was long enough but even with double proofing time, final proofing was lackluster - it was possibly still underproofed. Next time, let the bread warm up for a couple of hours on the counter before shaping?
+The bulk fermenation was long enough but even with 1.5 hr proofing time, final proofing was lackluster - it was possibly still underproofed. Next time:
+
+- let the bread warm up for a couple of hours on the counter before shaping
+- check temperature after this, if still cold, adjust up final proofing a bit - could final proof for up to 2.5 hours?
