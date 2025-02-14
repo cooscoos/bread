@@ -9,8 +9,9 @@ app = Flask(__name__)
 # List of pages
 pages: Dict[str, str] = {
     "Beginner Wholewheat Loaf": "beginner_wholewheat_loaf.md",
-    "Beginner White Loaf": "beginner_white_loaf.md",
+    "Wholemeal sourdough": "wholemeal_sourdough.md",
     "Sprouted Spelt Loaf": "sprouted_spelt.md",
+    "Beginner White Loaf": "beginner_white_loaf.md",
     "Biga": "biga.md",
     "Cold fermentation": "cold_fermentation.md",
 }

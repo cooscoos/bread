@@ -2,6 +2,10 @@
 
 An alternative to acheiving good flavour without biga (which is quite hard to control) is cold fermentation.
 
+I've not had a lot of luck with this either; it's easier to make a sourdough.
+
+---
+
 In cold fermentation:
 
 - use cold water (8 deg C or the same temperature as your fridge) during mixing

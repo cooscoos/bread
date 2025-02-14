@@ -1,6 +1,6 @@
 # Sprouted spelt wholegrain loaf
 
-> Experimental
+Sprouting 50 g of dry spelt adds extra flavour to the beginner's wholegrain loaf.
 
 ## Sprouting spelt
 
